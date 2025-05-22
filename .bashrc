@@ -121,6 +121,7 @@ fi
 # (GJ) Custom Config
 
 alias so="source ~/.bashrc"
+alias obsidian="cd ~/d/Documents/SelfProjects/obsidian-vault"
 
 # dotfiles management
 DOTFILES_HOME=$HOME
