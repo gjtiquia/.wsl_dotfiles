@@ -121,6 +121,7 @@ fi
 # (GJ) Custom Config
 
 alias so="source ~/.bashrc"
+alias nvimrc="cd ~/.config/nvim"
 alias obsidian="cd ~/d/Documents/SelfProjects/obsidian-vault"
 
 # dotfiles management
